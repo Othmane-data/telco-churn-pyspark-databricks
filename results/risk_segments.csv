@@ -1,0 +1,5 @@
+risk_segment,customers,avg_probability
+Critical,9,0.8117
+High,750,0.675
+Medium,1869,0.4447
+Low,4415,0.1151
