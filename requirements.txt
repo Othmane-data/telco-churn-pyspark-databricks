@@ -1,0 +1,6 @@
+# Databricks provides Spark/PySpark in the runtime.
+# Spark version observed in the executed notebook: 4.1.0
+pyspark==4.1.0
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
